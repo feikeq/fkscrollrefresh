@@ -2,6 +2,7 @@
 FKScrollRefresh滚动刷新jQuery下拉刷新上拉加载操作插件
 
 
+```html
 var FK_ScrollR = $('body').FKScrollRefresh({
 
  // 常规设置

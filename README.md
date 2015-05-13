@@ -1,4 +1,4 @@
-# fkscrollrefresh
+# fkscrollrefresh 1.2
 FKScrollRefresh滚动刷新jQuery下拉刷新上拉加载操作插件
 
 
